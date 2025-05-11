@@ -1,27 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-I‘m CoteNite ，a student of software  engineering。
+<p align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+Welecom+to+My+Site+!" alt="Typing SVG" /></a>
+</p>
 
-**Welcome to my site！！！**
+<p align="center">
+  <a href="https://cotenite.github.io/blog/">You can learn more about me through my blog</a>
+</p>
 
-[My Blog](https://cotenite.github.io/blog/)
+<p align="center">
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=CoteNite" alt="Contribution Stats" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CoteNite&theme=transparent&show_icons=true&count_private=true" alt="GitHub-Stats" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-stats-josstorer.vercel.app/api/top-langs/?username=CoteNite&count_private=true&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=00000000&layout=compact&hide=scss&exclude_repo=-,Draw-Numbers,Garbage-Classification-Search" alt="GitHub-Language-Stats" width="600"/>
+  </a>
+</p>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=CoteNite.CoteNite)  
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=CoteNite)](https://github.com/LordDashMe/github-contribution-stats/)  
-[![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=CoteNite&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub-Language-Stats](https://github-stats-josstorer.vercel.app/api/top-langs/?username=CoteNite&count_private=true&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=00000000&layout=compact&hide=scss&exclude_repo=-,Draw-Numbers,Garbage-Classification-Search)](https://github.com/anuraghazra/github-readme-stats)  
-<!--
-**CoteNite/CoteNite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
