@@ -7,9 +7,6 @@
 <center>
   <br>Mainly using Kotlin + JS, on the road to becoming a full-stack engineer(Front-end, back-end, ops, and shoving some AI wherever it fits)</br>
   <br> <a href="https://cotenite.github.io/blog/">You can learn more about me through my blog</a> <br>
-  <br> <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=CoteNite" alt="Contribution Stats" width="500"/>
-  </a>
   <br> <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=CoteNite&theme=transparent&show_icons=true&count_private=true" alt="GitHub-Stats" width="500"/>
   </a>
