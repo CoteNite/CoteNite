@@ -5,7 +5,7 @@
 </p>
 
 <center>
-  <br>Mainly using Java/Kotlin(SpringBoot) + JS(Vue/Quasar)</br>
+  <br>Mainly using Java/Kotlin(SpringBoot/Kotlin Multiplatform) + JS(Vue/Quasar)</br>
   <br>on the road to becoming a full-stack engineer(Front-end, back-end, client, ops, and shoving some AI wherever it fits)</br>
   <br> <a href="https://cotenite.github.io/blog/">You can learn more about me through my blog</a> <br>
   <br> <a href="https://github.com/anuraghazra/github-readme-stats">
