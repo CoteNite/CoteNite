@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=CoteNite&theme=transparent&show_icons=true&count_private=true" alt="GitHub-Stats" width="500"/>
   </a>
   <br> <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-josstorer.vercel.app/api/top-langs/?username=CoteNite&count_private=true&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=00000000&layout=compact&hide=scss&exclude_repo=-,Draw-Numbers,Garbage-Classification-Search" alt="GitHub-Language-Stats" width="500"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CoteNite&count_private=true&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=00000000&layout=compact&hide=scss&exclude_repo=-,Draw-Numbers,Garbage-Classification-Search" alt="GitHub-Language-Stats" width="500"/>
   </a>
 </center>
 
